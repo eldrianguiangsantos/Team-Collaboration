@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="typeofincident" min="-2" max="-2" attributes="0"/>
+                  <Component id="natureofincident" min="-2" max="-2" attributes="0"/>
+                  <Component id="causeofincident" min="-2" max="-2" attributes="0"/>
+                  <Component id="timereported" min="-2" max="-2" attributes="0"/>
+                  <Component id="responsetime" min="-2" max="-2" attributes="0"/>
+                  <Component id="timearrived" min="-2" max="-2" attributes="0"/>
+                  <Component id="shifttime" min="-2" max="-2" attributes="0"/>
+                  <Component id="day" min="-2" max="-2" attributes="0"/>
+                  <Component id="plaza" min="-2" max="-2" attributes="0"/>
+                  <Component id="exactlocation" min="-2" max="-2" attributes="0"/>
+                  <Component id="locationbetweennb" min="-2" max="-2" attributes="0"/>
+                  <Component id="locationbetweensb" min="-2" max="-2" attributes="0"/>
+                  <Component id="laneoccupied" min="-2" max="-2" attributes="0"/>
+                  <Component id="vehicle" min="-2" max="-2" attributes="0"/>
+                  <Component id="platenumber" min="-2" max="-2" attributes="0"/>
+                  <Component id="drivername" min="-2" max="-2" attributes="0"/>
+                  <Component id="driverage" min="-2" max="-2" attributes="0"/>
+                  <Component id="driverlicensenumber" min="-2" max="-2" attributes="0"/>
+                  <Component id="minorcasualty" min="-2" max="-2" attributes="0"/>
+                  <Component id="majorcasualty" min="-2" max="-2" attributes="0"/>
+                  <Component id="numberofinjuries" min="-2" max="-2" attributes="0"/>
+                  <Component id="dtptotplex" min="-2" max="-2" attributes="0"/>
+                  <Component id="otherdetails" min="-2" max="-2" attributes="0"/>
+                  <Component id="week" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                      <Component id="numberoffatal" alignment="0" max="32767" attributes="0"/>
+                      <Component id="dtptovehicle" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <Component id="date" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jTextField1" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField12" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField13" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField14" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField15" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField16" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField17" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField18" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField19" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField20" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField21" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField22" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField23" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField24" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField25" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField8" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField9" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField10" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField11" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField2" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField3" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField4" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField5" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField6" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField7" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField26" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Component id="jTextField27" alignment="0" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="submit" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="reset" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="173" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="date" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTextField1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="typeofincident" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="natureofincident" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="causeofincident" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField5" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="timereported" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField6" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="responsetime" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField7" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="timearrived" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="8" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField8" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="shifttime" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField9" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="day" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField10" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="plaza" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField11" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="exactlocation" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField12" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="locationbetweennb" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField13" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="locationbetweensb" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField14" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="laneoccupied" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField15" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="vehicle" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField16" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="platenumber" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField17" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="drivername" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField18" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="driverage" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField19" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="driverlicensenumber" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField20" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="minorcasualty" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField21" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="majorcasualty" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField22" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="numberofinjuries" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField23" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="numberoffatal" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField24" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="dtptovehicle" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField25" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="dtptotplex" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="8" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField26" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="otherdetails" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField27" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="week" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="submit" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="reset" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="36" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="date">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Date"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField1">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextField1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField2">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextField2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField3">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextField3ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField4">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField5">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField6">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField7">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField8">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextField8ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField9">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextField9ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField10">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextField10ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField11">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField12">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField13">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField14">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField15">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField16">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField17">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField18">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField19">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField20">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField21">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField22">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField23">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField24">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField25">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField26">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField27">
+    </Component>
+    <Component class="javax.swing.JLabel" name="typeofincident">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Type of Incident"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="natureofincident">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nature  of Incident"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="causeofincident">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cause of Accident"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="timereported">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Time Reported"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="responsetime">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Response  Time"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="timearrived">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Time Arrived"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="shifttime">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Shift Time"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="day">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Day"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="plaza">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Plaza"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="exactlocation">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Exact Location"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="locationbetweennb">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Location Between NB"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="locationbetweensb">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Location Between SB"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="laneoccupied">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Lane Occupied"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="vehicle">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Vehicle"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="platenumber">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Plate Number"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="drivername">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Driver Name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="driverage">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Driver Age"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="driverlicensenumber">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Driver License Number"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="minorcasualty">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Minor Casualty"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="majorcasualty">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Major Casualty"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="numberofinjuries">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Number of Injuries"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="numberoffatal">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Number of Fatal"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="dtptovehicle">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="DTP to Vehicle"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="dtptotplex">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="DTP to TPLEX"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="otherdetails">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Other Details"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="week">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Week"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="submit">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Submit"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="submitActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="reset">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Reset"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="resetActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
